@@ -1,5 +1,5 @@
  
- 
+
  $(document).on('pageinit', function() {
  $('.flexslider').flexslider({controlNav:false});
 
@@ -54,4 +54,3 @@ $('#send').click(function() {
 
 
  });
- 
