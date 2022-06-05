@@ -146,7 +146,7 @@ window.onload =  function () {
     var inputEF = document.createElement("input");
     inputEF.setAttribute("id", "EF");
     inputEF.setAttribute("type", "text");
-    inputEF.setAttribute("placeholder", "Ejection Fraction (0-1)");
+    inputEF.setAttribute("placeholder", "Ejection Fraction (%)");
 
     var inputTET = document.createElement("input");
     inputTET.setAttribute("id", "TET");
